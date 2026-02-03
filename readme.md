@@ -166,4 +166,9 @@ python app/main.py
 - Integration with manufacturing pipelines
 
 ## Output image
+### intial image
 - ![intial image](output_images/image1.png)
+### after uploading the images
+- ![after uploading image](output_images/image2.png)
+### zoom and see
+- ![zoom and see](output_images/)
