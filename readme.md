@@ -167,5 +167,3 @@ python app/main.py
 
 ## Output image
 - ![intial image](output_images/image1.png)
-- ![after uploading image](output_images/image2.png)
-- ![zoom and see](output_images/image3.png)
