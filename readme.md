@@ -172,3 +172,6 @@ python app/main.py
 - ![after uploading image](output_images/image2.png)
 ### Zoom and see
 - ![zoom and see](output_images/image3.png)
+
+### I've also provides a ppt too.
+- It's a basic ppt, which you can use for explanations. 
