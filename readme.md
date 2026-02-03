@@ -52,23 +52,16 @@ After training the YOLOv8 model in Google Colab, a trained weight file named `be
 2. Navigate to: runs/detect/train/weights/
 3. Inside this folder, the trained model file `best.pt` will be available.
 
----
-
 ## Important Note About Training
 
 - Training the model in Google Colab is **optional** and included mainly for **educational purposes**.
 - This repository already includes a **pre-trained `best.pt` file** that works out of the box.
 - Users can directly run the application without retraining the model.
 
----
-
 ## What is `best.pt`?
-
 The `best.pt` file is the trained YOLOv8 model containing learned features of PCB defects. It enables the system to perform defect detection, classification, and localization without requiring retraining.
-
 In simple terms, `best.pt` acts as the intelligence of the system.
 
----
 
 ## Why Google Colab is Used for Training
 
@@ -79,8 +72,7 @@ Training deep learning models locally requires high-end GPU hardware. Google Col
 - No local hardware dependency
 - Easy environment setup
 - Integrated Gemini AI assistant for debugging and error resolution
-
-For academic and learning purposes, Google Colab is the most efficient training platform.
+- For academic and learning purposes, Google Colab is the most efficient training platform.
 
 ---
 
