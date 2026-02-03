@@ -171,4 +171,4 @@ python app/main.py
 ### after uploading the images
 - ![after uploading image](output_images/image2.png)
 ### zoom and see
-- ![zoom and see](output_images/)
+- ![zoom and see](output_images/image3.png)
