@@ -111,12 +111,12 @@ pip install uv
 ### Step 2: Create a Virtual Environment
 uv venv .venv
 ### Step 3: Activate the Virtual Environment
-Windows:
+- Windows:
 .venv\Scripts\activate
-Linux / macOS:
+- Linux / macOS:
 source .venv/bin/activate
 ### Step 4: Install Required Dependencies
-uv pip install ultralytics opencv-python pillow numpy
+uv pip install -r requirements.txt
 
 ## Running the Application
 - Ensure the best.pt file is present inside the models/ directory.
